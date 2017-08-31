@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxam.CircleProgressBar.Droid", "Naxam.CircleProgressBar.Droid\Naxam.CircleProgressBar.Droid.csproj", "{843B8BA3-53F4-43E9-9E90-4C3B11DF7588}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleProgressBarQs", "CircleProgressBarQs\CircleProgressBarQs.csproj", "{E17D864C-AB85-47AF-B4EF-5E4F5643E8DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{843B8BA3-53F4-43E9-9E90-4C3B11DF7588}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{843B8BA3-53F4-43E9-9E90-4C3B11DF7588}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{843B8BA3-53F4-43E9-9E90-4C3B11DF7588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17D864C-AB85-47AF-B4EF-5E4F5643E8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E17D864C-AB85-47AF-B4EF-5E4F5643E8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E17D864C-AB85-47AF-B4EF-5E4F5643E8DB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E17D864C-AB85-47AF-B4EF-5E4F5643E8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E17D864C-AB85-47AF-B4EF-5E4F5643E8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E17D864C-AB85-47AF-B4EF-5E4F5643E8DB}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
